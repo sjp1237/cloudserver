@@ -1,0 +1,227 @@
+[
+	{
+		"AccessTime" : 1670590411,
+		"BackPath" : "./wwwroot/backdir/Apowersoft GIF.exe",
+		"FileSize" : 5019184,
+		"ModifyTime" : 1670590411,
+		"PackPath" : "./wwwroot/packdir/Apowersoft GIF.exe.lz",
+		"PackSign" : true,
+		"Url" : "/download/Apowersoft GIF.exe"
+	},
+	{
+		"AccessTime" : 1670153148,
+		"BackPath" : "./wwwroot/backdir/字符串.rtf",
+		"FileSize" : 0,
+		"ModifyTime" : 1670153136,
+		"PackPath" : "./wwwroot/packdir/字符串.rtf.lz",
+		"PackSign" : true,
+		"Url" : "/download/字符串.rtf"
+	},
+	{
+		"AccessTime" : 1670571091,
+		"BackPath" : "./wwwroot/backdir/计划.txt",
+		"FileSize" : 29,
+		"ModifyTime" : 1670571091,
+		"PackPath" : "./wwwroot/packdir/计划.txt.lz",
+		"PackSign" : true,
+		"Url" : "/download/计划.txt"
+	},
+	{
+		"AccessTime" : 1670571091,
+		"BackPath" : "./wwwroot/backdir/",
+		"FileSize" : 4096,
+		"ModifyTime" : 1670571091,
+		"PackPath" : "./wwwroot/packdir/.lz",
+		"PackSign" : false,
+		"Url" : "/download/"
+	},
+	{
+		"AccessTime" : 1670332480,
+		"BackPath" : "./wwwroot/backdir/food1.jpg",
+		"FileSize" : 402285,
+		"ModifyTime" : 1670332480,
+		"PackPath" : "./wwwroot/packdir/food1.jpg.lz",
+		"PackSign" : true,
+		"Url" : "/download/food1.jpg"
+	},
+	{
+		"AccessTime" : 1670152838,
+		"BackPath" : "./wwwroot/backdir/未完成的课程.txt",
+		"FileSize" : 334,
+		"ModifyTime" : 1670153087,
+		"PackPath" : "./wwwroot/packdir/未完成的课程.txt.lz",
+		"PackSign" : true,
+		"Url" : "/download/未完成的课程.txt"
+	},
+	{
+		"AccessTime" : 1670587941,
+		"BackPath" : "./wwwroot/backdir/2021比特科技暑期作业C-C++方向.pdf",
+		"FileSize" : 1128598,
+		"ModifyTime" : 1670587941,
+		"PackPath" : "./wwwroot/packdir/2021比特科技暑期作业C-C++方向.pdf.lz",
+		"PackSign" : true,
+		"Url" : "/download/2021比特科技暑期作业C-C++方向.pdf"
+	},
+	{
+		"AccessTime" : 1670245877,
+		"BackPath" : "./wwwroot/backdir/test.xlsx",
+		"FileSize" : 10050,
+		"ModifyTime" : 1670245877,
+		"PackPath" : "./wwwroot/packdir/test.xlsx.lz",
+		"PackSign" : true,
+		"Url" : "/download/test.xlsx"
+	},
+	{
+		"AccessTime" : 1670219957,
+		"BackPath" : "./wwwroot/backdir/C++面试题.xmind",
+		"FileSize" : 120538,
+		"ModifyTime" : 1670219957,
+		"PackPath" : "./wwwroot/packdir/C++面试题.xmind.lz",
+		"PackSign" : true,
+		"Url" : "/download/C++面试题.xmind"
+	},
+	{
+		"AccessTime" : 1670571047,
+		"BackPath" : "./wwwroot/backdir/gcc或g++.txt",
+		"FileSize" : 0,
+		"ModifyTime" : 1670571047,
+		"PackPath" : "./wwwroot/packdir/gcc或g++.txt.lz",
+		"PackSign" : true,
+		"Url" : "/download/gcc或g++.txt"
+	},
+	{
+		"AccessTime" : 1670230716,
+		"BackPath" : "./wwwroot/backdir/202022210218 沈家鹏 期末考核设计.rar",
+		"FileSize" : 41436478,
+		"ModifyTime" : 1670230716,
+		"PackPath" : "./wwwroot/packdir/202022210218 沈家鹏 期末考核设计.rar.lz",
+		"PackSign" : true,
+		"Url" : "/download/202022210218 沈家鹏 期末考核设计.rar"
+	},
+	{
+		"AccessTime" : 1670332159,
+		"BackPath" : "./wwwroot/backdir/cat.jpg",
+		"FileSize" : 433337,
+		"ModifyTime" : 1670332159,
+		"PackPath" : "./wwwroot/packdir/cat.jpg.lz",
+		"PackSign" : true,
+		"Url" : "/download/cat.jpg"
+	},
+	{
+		"AccessTime" : 1670571102,
+		"BackPath" : "./wwwroot/backdir/学习方法.txt",
+		"FileSize" : 0,
+		"ModifyTime" : 1670571102,
+		"PackPath" : "./wwwroot/packdir/学习方法.txt.lz",
+		"PackSign" : true,
+		"Url" : "/download/学习方法.txt"
+	},
+	{
+		"AccessTime" : 1670571072,
+		"BackPath" : "./wwwroot/backdir/继承.txt",
+		"FileSize" : 0,
+		"ModifyTime" : 1670571072,
+		"PackPath" : "./wwwroot/packdir/继承.txt.lz",
+		"PackSign" : true,
+		"Url" : "/download/继承.txt"
+	},
+	{
+		"AccessTime" : 1670153238,
+		"BackPath" : "./wwwroot/backdir/新建文本文档 (4).txt",
+		"FileSize" : 3591,
+		"ModifyTime" : 1670153250,
+		"PackPath" : "./wwwroot/packdir/新建文本文档 (4).txt.lz",
+		"PackSign" : true,
+		"Url" : "/download/新建文本文档 (4).txt"
+	},
+	{
+		"AccessTime" : 1670333137,
+		"BackPath" : "./wwwroot/backdir/微信图片_20221004140429.jpg",
+		"FileSize" : 60489,
+		"ModifyTime" : 1670333137,
+		"PackPath" : "./wwwroot/packdir/微信图片_20221004140429.jpg.lz",
+		"PackSign" : true,
+		"Url" : "/download/微信图片_20221004140429.jpg"
+	},
+	{
+		"AccessTime" : 1670154220,
+		"BackPath" : "./wwwroot/backdir/华南农业大学+沈家鹏+立即到岗+个人博客.pdf",
+		"FileSize" : 77175,
+		"ModifyTime" : 1670154228,
+		"PackPath" : "./wwwroot/packdir/华南农业大学+沈家鹏+立即到岗+个人博客.pdf.lz",
+		"PackSign" : true,
+		"Url" : "/download/华南农业大学+沈家鹏+立即到岗+个人博客.pdf"
+	},
+	{
+		"AccessTime" : 1670153849,
+		"BackPath" : "./wwwroot/backdir/test.txt",
+		"FileSize" : 13,
+		"ModifyTime" : 1670153852,
+		"PackPath" : "./wwwroot/packdir/test.txt.lz",
+		"PackSign" : true,
+		"Url" : "/download/test.txt"
+	},
+	{
+		"AccessTime" : 1670571006,
+		"BackPath" : "./wwwroot/backdir/猫1.jpg",
+		"FileSize" : 197571,
+		"ModifyTime" : 1670571006,
+		"PackPath" : "./wwwroot/packdir/猫1.jpg.lz",
+		"PackSign" : true,
+		"Url" : "/download/猫1.jpg"
+	},
+	{
+		"AccessTime" : 1670153194,
+		"BackPath" : "./wwwroot/backdir/模具总结.rtf",
+		"FileSize" : 0,
+		"ModifyTime" : 1670153164,
+		"PackPath" : "./wwwroot/packdir/模具总结.rtf.lz",
+		"PackSign" : true,
+		"Url" : "/download/模具总结.rtf"
+	},
+	{
+		"AccessTime" : 1670231215,
+		"BackPath" : "./wwwroot/backdir/周杰伦 - 我是如此相信.mp3",
+		"FileSize" : 10712898,
+		"ModifyTime" : 1670231215,
+		"PackPath" : "./wwwroot/packdir/周杰伦 - 我是如此相信.mp3.lz",
+		"PackSign" : true,
+		"Url" : "/download/周杰伦 - 我是如此相信.mp3"
+	},
+	{
+		"AccessTime" : 1670228284,
+		"BackPath" : "./wwwroot/backdir/线程复习导图.emmx",
+		"FileSize" : 25333,
+		"ModifyTime" : 1670228284,
+		"PackPath" : "./wwwroot/packdir/线程复习导图.emmx.lz",
+		"PackSign" : true,
+		"Url" : "/download/线程复习导图.emmx"
+	},
+	{
+		"AccessTime" : 1670571122,
+		"BackPath" : "./wwwroot/backdir/新建文本文档 (5).txt",
+		"FileSize" : 1166,
+		"ModifyTime" : 1670571122,
+		"PackPath" : "./wwwroot/packdir/新建文本文档 (5).txt.lz",
+		"PackSign" : true,
+		"Url" : "/download/新建文本文档 (5).txt"
+	},
+	{
+		"AccessTime" : 1670227168,
+		"BackPath" : "./wwwroot/backdir/Xshell-7.0.0111p.exe",
+		"FileSize" : 47187528,
+		"ModifyTime" : 1670227168,
+		"PackPath" : "./wwwroot/packdir/Xshell-7.0.0111p.exe.lz",
+		"PackSign" : true,
+		"Url" : "/download/Xshell-7.0.0111p.exe"
+	},
+	{
+		"AccessTime" : 0,
+		"BackPath" : "",
+		"FileSize" : 0,
+		"ModifyTime" : 0,
+		"PackPath" : "",
+		"PackSign" : false,
+		"Url" : ""
+	}
+]

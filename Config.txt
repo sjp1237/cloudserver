@@ -1,0 +1,12 @@
+{
+  "Ip":"119.23.41.13",
+  "ServerPort":8081,
+  "HotTime":10000,
+  "PackDir":"./wwwroot/packdir/",
+  "BackDir":"./wwwroot/backdir/",
+  "BackFileInfo":"./backfileinfo",
+  "PackFileSuffix":".lz",
+  "UrlPrefix":"/download/"
+}
+
+
